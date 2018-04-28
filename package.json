@@ -1,0 +1,18 @@
+{
+  "name": "qqdb",
+  "version": "1.0.0",
+  "description": "Zero-dependency key value store for short-lived scripts, AKA NSUserDefaults for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "keywords": [
+    "db",
+    "fs"
+  ],
+  "author": "Josh Delman <josh@turdnagel.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.1.1"
+  }
+}
