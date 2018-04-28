@@ -1,6 +1,6 @@
 {
   "name": "qqdb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-dependency key value store for short-lived scripts, AKA NSUserDefaults for Node.js",
   "main": "index.js",
   "scripts": {
